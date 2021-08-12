@@ -1,0 +1,74 @@
+html,
+body{
+    height: 100%;
+    font-size: 1rem;
+    font-family: 'Montserrat', sans-serif;
+}
+.gradient{
+    background: rgb(236,236,254);
+    background: linear-gradient(90deg, rgba(236,236,254,1) 97%, rgba(225,225,238,1) 100%, rgba(69,83,156,1) 100%);
+}
+
+.page-header{
+    margin-top: 3rem;
+    font-size: 1.2rem;
+    color: black;
+}
+
+#image-padding{
+    padding-top: 1rem;
+
+}
+.section-1{
+    margin-top: 4rem;
+
+}
+.section-2{
+   margin-top: 4rem;
+
+}
+.skill{
+    text-align: center;
+}
+
+.frontend{
+    padding-top: 2rem;
+    text-align: center;
+}
+
+.backend{
+    padding-top: 2rem;
+    text-align: center;
+}
+
+.section-3{
+    margin-top: 2em;
+    text-align: center; 
+
+}
+.project{
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.card{
+    background-color: #99627a;
+}
+
+.section-4{
+    margin-top: 4em;
+    text-align: center; 
+    
+}
+
+.section-5{
+    text-align: center;
+    margin-top: 4rem;
+    
+}
+
+#contact{
+   
+    margin-bottom: 4rem;
+}
+/* adjusted CSS of the above custom element */
